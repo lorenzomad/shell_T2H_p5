@@ -1,0 +1,9 @@
+{
+	"name": "datafactorynyclorenzo",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c6bfefd-6d32-460a-8f06-335270f857f5",
+		"tenantId": "9b7cbd77-6d6b-4879-8aba-63d7dfb18472"
+	}
+}
